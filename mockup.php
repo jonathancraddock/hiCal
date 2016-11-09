@@ -2,7 +2,7 @@
 
 <!-- CALENDAR NAVIGATION -->
 	<ul class="cal-navigation">
-		<li id="calPrev" class="cal-nav">Prev</li><li id="month-year">X</li><li id="calNext" class="cal-nav">Next</li>
+		<li id="calPrev" class="btn cal-nav">Prev</li><li id="month-year">X</li><li id="calNext" class="btn cal-nav">Next</li>
 	</ul> <!-- /cal-navigation -->
 
 <!-- HEADINGS -->
