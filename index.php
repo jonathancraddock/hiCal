@@ -33,7 +33,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="/cal">hical</a>
+          <a class="navbar-brand" href="/hical">hical</a>
         </div>
 
         <div id="navbar" class="navbar-collapse collapse">
@@ -66,7 +66,7 @@
         </div>
 
         <div class="col-md-4">
-          Welcome to "hical", something like "hello world", but with a calendar!
+          <p><br />Welcome to "hical", something like "hello world", but this one says "hi" to a calendar!</p>
         </div>
       </div>
 
