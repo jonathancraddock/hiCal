@@ -1,38 +1,43 @@
 <div id="cal">
 
+<!-- CALENDAR NAVIGATION -->
+	<ul class="cal-navigation">
+		<li id="calPrev" class="cal-nav">Prev</li><li id="month-year">X</li><li id="calNext" class="cal-nav">Next</li>
+	</ul> <!-- /cal-navigation -->
+
 <!-- HEADINGS -->
 	<ul class="cal-header">
-		<li class="cal-head">Mo</li><li class="cal-head">Tu</li><li class="cal-head">We</li><li class="cal-head">Th</li><li class="cal-head">Fr</li><li class="cal-head">Sa</li><li class="cal-head">Su</li>
-	</ul> <!-- /cal-row -->
+		<li>Mo</li><li>Tu</li><li>We</li><li>Th</li><li>Fr</li><li>Sa</li><li>Su</li>
+	</ul> <!-- /cal-header -->
 
 <!-- ROW 1 -->
 	<ul class="cal-row-1">
-		<li class="cal-day">x</li><li class="cal-day">x</li><li class="cal-day">x</li><li class="cal-day">x</li><li class="cal-day">x</li><li class="cal-day">x</li><li class="cal-day">x</li>
+		<li>x</li><li>x</li><li>x</li><li>x</li><li>x</li><li>x</li><li>x</li>
 	</ul> <!-- /cal-row -->
 
 <!-- ROW 1 -->
 	<ul class="cal-row-2">
-		<li class="cal-day">x</li><li class="cal-day">x</li><li class="cal-day">x</li><li class="cal-day">x</li><li class="cal-day">x</li><li class="cal-day">x</li><li class="cal-day">x</li>
+		<li>x</li><li>x</li><li>x</li><li>x</li><li>x</li><li>x</li><li>x</li>
 	</ul> <!-- /cal-row -->
 
 <!-- ROW 1 -->
 	<ul class="cal-row-3">
-		<li class="cal-day">x</li><li class="cal-day">x</li><li class="cal-day">x</li><li class="cal-day">x</li><li class="cal-day">x</li><li class="cal-day">x</li><li class="cal-day">x</li>
+		<li>x</li><li>x</li><li>x</li><li>x</li><li>x</li><li>x</li><li>x</li>
 	</ul> <!-- /cal-row -->
 
 <!-- ROW 1 -->
 	<ul class="cal-row-4">
-		<li class="cal-day">x</li><li class="cal-day">x</li><li class="cal-day">x</li><li class="cal-day">x</li><li class="cal-day">x</li><li class="cal-day">x</li><li class="cal-day">x</li>
+		<li>x</li><li>x</li><li>x</li><li>x</li><li>x</li><li>x</li><li>x</li>
 	</ul> <!-- /cal-row -->
 
 <!-- ROW 1 -->
 	<ul class="cal-row-5">
-		<li class="cal-day">x</li><li class="cal-day">x</li><li class="cal-day">x</li><li class="cal-day">x</li><li class="cal-day">x</li><li class="cal-day">x</li><li class="cal-day">x</li>
+		<li>x</li><li>x</li><li>x</li><li>x</li><li>x</li><li>x</li><li>x</li>
 	</ul> <!-- /cal-row -->
 
 <!-- ROW 1 -->
 	<ul class="cal-row-6">
-		<li class="cal-day">x</li><li class="cal-day">x</li><li class="cal-day">x</li><li class="cal-day">x</li><li class="cal-day">x</li><li class="cal-day">x</li><li class="cal-day">x</li>
+		<li>x</li><li>x</li><li>x</li><li>x</li><li>x</li><li>x</li><li>x</li>
 	</ul> <!-- /cal-row -->
 
 

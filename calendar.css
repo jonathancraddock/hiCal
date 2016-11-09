@@ -9,7 +9,7 @@ footer p {
 
 #cal {
     width: 296px;
-    height: 217px;
+    height: 250px;
     box-sizing: border-box;
     border: 1px solid #eee;
     padding: 10px 0 0 10px;
@@ -23,9 +23,25 @@ footer p {
 	margin: 0;
 }
 
-ul[class*="cal-row-"] {
-	clear: both;
-	margin-left: 10px;
+.cal-navigation {
+  height: 40px;
+  margin-left: 10px;
+}
+
+.cal-navigation li {
+  display: block;
+	float: left;
+	text-align: center;
+}
+
+.cal-nav {
+  background-color: #bbb;
+  padding: 4px;
+  border-radius: 2px;
+}
+
+#month-year {
+  width: 200px;
 }
 
 .cal-header {
@@ -44,7 +60,12 @@ ul[class*="cal-row-"] {
 	font-weight: bold;
 }
 
-.cal-day {
+ul[class*="cal-row-"] {
+	clear: both;
+	margin-left: 10px;
+}
+
+ul[class*="cal-row-"] li {
 	display: block;
 	float: left;
 	text-align: center;
@@ -58,6 +79,6 @@ ul[class*="cal-row-"] {
 	margin-bottom: -1px;
 }
 
-.cal-day:hover {
+ul[class*="cal-row-"] li:hover {
 	background-color: #ccc;
 }
