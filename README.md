@@ -1,6 +1,10 @@
 ## hical (AKA: Hi Calendar!)
 
-My first repository, which is something like a "Hello World", but this is "Hi Calendar". I'm using it as a way to get an introduction to Atom and GitHub. Some notes below:
+My first repository, which is something like a "Hello World", but this is "Hi Calendar". I'm using it as a way to get an introduction to Atom and GitHub. 
+
+![Example screenshot of calendar](calendar1.png)
+
+Some notes below:
 
 **Atom** (running on Windows machine, using **Remote-FTP** package to stay in sync with a Digital Ocean VM.)
 
